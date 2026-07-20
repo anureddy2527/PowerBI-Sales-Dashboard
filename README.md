@@ -1,22 +1,27 @@
-# PowerBI-Sales-Dashboard
-Retail Sales Dashboard built using Power BI with KPIs and insights
-# Power BI Sales Dashboard
+# 📊 Power BI Sales Dashboard
+Retail Sales Dashboard built using Power BI with KPIs and insights# 🔍 Overview
+This project presents a Retail Sales Dashboard built using Power BI to analyze sales performance and business insights.
 
-## Overview
-This project presents a Retail Sales Dashboard built using Power BI.
-
-## Features
-- KPI Cards (Total Sales, Orders, Quantity)
+## 📈 Key Features
+- KPI Cards (Total Sales, Orders, Quantity, Avg Sales)
 - Top 10 Products Analysis
-- Region-wise and Category-wise insights
+- Region-wise Sales Performance
+- Category-wise Insights
 
-## Tools Used
+## 🛠 Tools & Technologies
 - Power BI
 - DAX
 - Excel
 
-## Dataset
-Retail store multi-year dataset
+## 📊 Insights
+- Identified top-performing products
+- Analyzed regional sales trends
+- Supported data-driven decision-making
 
-## Author
-ananya yarashi
+## 📁 Files Included
+- retail sales.pbix
+- dataset.xlsx
+- dashboard image
+
+## 👩‍💻 Author
+Ananya Yarashi
